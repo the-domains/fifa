@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Fifa]]></title>
         <description><![CDATA[Fifa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fifa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 10:42:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 10:42:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fifa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scorecentre landing page (Sky Sports)]]></title>
+            <description><![CDATA[<article><h1>Scorecentre landing page (Sky Sports)</h1><p>The Sky Sports Live Score Centre is your home for up-to-the-minute results from across the world of sports - covering the Premier League to The Ashes.</p><img src="http://e2.365dm.com/15/06/768x432/tom-makinson-st-helens-rugby-league_3312115.jpg?20150605230555"></article>]]></description>
+            <link>http://www.skysports.com/live-scores</link>
+            <guid isPermaLink="false">628797f1-98dd-49af-b9c9-eac09ac68493</guid>
+            <pubDate>Tue, 03 Nov 2015 10:42:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Harry Kane is turning into the perfect package, says Jamie Carragher]]></title>
             <description><![CDATA[<article><h1>Harry Kane is turning into the perfect package, says Jamie Carragher</h1><p>Jamie Carragher believes Harry Kane's impressive all-round game is crucial to Tottenham - even when the striker is not scoring goals.</p><img src="http://e1.365dm.com/15/11/150x150/harry-kane-erik-lamela-tottenham-aston-villa_3372150.jpg"></article>]]></description>
