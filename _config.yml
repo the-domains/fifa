@@ -1,0 +1,23 @@
+name: Fifa
+favicon: null
+layout_spectrum: 0.04375938675366342
+typography_spectrum: 0.17680514976382256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7442047242075205
+  lightness: 0.7886374252848327
+  saturation: 0.07421386917121708
+  rhythmicContrast: 0.7220625071786344
+purpose: []
