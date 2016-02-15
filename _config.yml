@@ -1,28 +1,40 @@
-name: Fifa
 favicon: null
-layout_spectrum: 0.55424
-typography_spectrum: 0.51606
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Fifa
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#090909'
-    - '#f1e4d3'
-    - '#798255'
-    - '#6d3d31'
-    - '#156e1a'
+  saturation: 1
   brandStrength: 0.3125
   lightness: 0.5625
-  saturation: 1
+  brandColors:
+    - '#FFD61A'
+    - '#CE5252'
+    - '#A63131'
+    - '#FABD22'
+    - '#DB6F2F'
   rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.51606
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.55424
+analytics:
+  twitter: null
+  google: null
+  facebook: null
